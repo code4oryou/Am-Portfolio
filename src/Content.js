@@ -1,12 +1,12 @@
 // import images
 import Hero_person from "./assets/images/Hero/person.png";
 
-import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
-import ps from "./assets/images/Skills/ps.png";
+import java from "./assets/images/Skills/java.png";
+import coding from "./assets/images/Skills/coding.png";
+import c from "./assets/images/Skills/c.png";
 import reactjs from "./assets/images/Skills/react.png";
-import nodejs from "./assets/images/Skills/node.png";
-import python from "./assets/images/Skills/python.png";
+import javascript from "./assets/images/Skills/javascript.png";
+import flutter from "./assets/images/Skills/flutter.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -79,19 +79,19 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
+        name: "java",
         para: "Lorem ipsum text  dummy",
-        logo: figma,
+        logo: java,
       },
       {
-        name: "Node js",
+        name: "JavaScript",
         para: "Lorem ipsum text  dummy",
-        logo: nodejs,
+        logo: javascript,
       },
       {
-        name: "Adobe Photoshop",
+        name: "C++",
         para: "Lorem ipsum text  dummy",
-        logo: ps,
+        logo: c,
       },
       {
         name: "React js",
@@ -99,14 +99,14 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "HTML / CSS",
         para: "Lorem ipsum text  dummy",
-        logo: sketch,
+        logo: coding,
       },
       {
-        name: "Python",
+        name: "Flutter",
         para: "Lorem ipsum text  dummy",
-        logo: python,
+        logo: flutter,
       },
     ],
     icon: MdArrowForward,
@@ -211,6 +211,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "All © Copy Right Reserved 2024",
   },
 };
